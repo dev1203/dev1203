@@ -1,0 +1,5 @@
+Real name: John
+Internet name: dev1203
+Birth date: 03/12/2xxx
+Nationality: Vietnam
+Currently living in: Vietnam
